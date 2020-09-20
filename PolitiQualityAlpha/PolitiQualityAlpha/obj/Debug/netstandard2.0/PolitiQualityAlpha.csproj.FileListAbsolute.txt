@@ -1,0 +1,27 @@
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.0\PolitiQualityAlpha.deps.json
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.0\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.0\ref\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.0\PolitiQualityAlpha.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.Properties.Resources.resources
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.csproj.GenerateResource.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.csproj.CoreCompileInputs.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.AssemblyInfoInputs.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.AssemblyInfo.cs
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\ref\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.csprojAssemblyReference.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.0\PolitiQualityAlpha.deps.json
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.0\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.0\ref\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.0\PolitiQualityAlpha.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.csprojAssemblyReference.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.Properties.Resources.resources
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.csproj.GenerateResource.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.csproj.CoreCompileInputs.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.AssemblyInfoInputs.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.AssemblyInfo.cs
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\ref\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.0\PolitiQualityAlpha.pdb

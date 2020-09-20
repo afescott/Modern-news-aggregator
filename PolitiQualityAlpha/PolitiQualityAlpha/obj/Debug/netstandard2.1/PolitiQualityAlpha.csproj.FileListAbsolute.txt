@@ -1,0 +1,16 @@
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.1\PolitiQualityAlpha.deps.json
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.1\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.1\ref\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.1\PolitiQualityAlpha.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.1\Mono.Android.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.1\Mono.Android.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\bin\Debug\netstandard2.1\Mono.Android.xml
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.1\PolitiQualityAlpha.csprojAssemblyReference.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.1\PolitiQualityAlpha.csproj.CoreCompileInputs.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.1\PolitiQualityAlpha.AssemblyInfoInputs.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.1\PolitiQualityAlpha.AssemblyInfo.cs
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.1\PolitiQualityAlpha.csproj.CopyComplete
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.1\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.1\ref\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha\obj\Debug\netstandard2.1\PolitiQualityAlpha.pdb

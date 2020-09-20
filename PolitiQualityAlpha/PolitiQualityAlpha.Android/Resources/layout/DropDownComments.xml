@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/dropDownCommentText"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:textSize="12dp"
+            android:layout_marginTop="60dp"
+            local:MvxBind="Text DropDownCommentText"
+                
+             />
+
+
+        <TextView
+            android:id="@+id/commentDownVotes"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:textSize="12dp"
+            android:layout_marginTop="60dp"
+            local:MvxBind="Text UserUpVotes"
+            android:layout_alignParentLeft="false"
+             />
+
+        <TextView
+            android:id="@+id/commentUpVotes"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_toRightOf="@+id/commentDownVotes"
+            android:textSize="12dp"
+            android:layout_marginTop="60dp"
+            local:MvxBind="Text UserDownVotes"
+            android:layout_alignParentLeft="false"
+             />
+
+
+    </RelativeLayout>>
+
+
+
+</LinearLayout>

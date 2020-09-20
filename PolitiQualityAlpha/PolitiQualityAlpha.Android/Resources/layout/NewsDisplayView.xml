@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+   <include
+    android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>
+
+
+  <Button
+      android:layout_width="100dp"
+      android:layout_height="50dp"
+        android:text="Filter News Content"
+         local:MvxBind="Click FilterBtn"
+           android:background="@drawable/layoutborder"
+        />
+
+
+   
+    <!--Interactive view for each news story-->
+    <MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:padding="7dp"
+  
+        local:MvxItemTemplate="@layout/item_contact"
+        local:MvxBind="ItemsSource CosineRecords; ItemClick ItemClickCommand">
+    </MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerView>
+     
+</LinearLayout>

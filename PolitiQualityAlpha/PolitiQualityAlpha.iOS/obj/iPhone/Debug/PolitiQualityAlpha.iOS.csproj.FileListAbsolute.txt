@@ -1,0 +1,137 @@
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\PolitiQualityAlpha.iOS.exe.config
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\PolitiQualityAlpha.iOS.exe
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\PolitiQualityAlpha.iOS.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\CG.Pluralization.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\HtmlAgilityPack.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\HtmlAgilityPack.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\System.Data.SqlClient.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Connectivity.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Connectivity.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Settings.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MaterialComponents.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\PolitiQualityAlpha.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.csprojAssemblyReference.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.exe.config
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.csproj.CopyComplete
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.exe
+C:\Users\Swifty\source\repos\PolitiQualityAlpha\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\PolitiQualityAlpha.iOS.exe.config
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\PolitiQualityAlpha.iOS.exe
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\PolitiQualityAlpha.iOS.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Acr.UserDialogs.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Acr.UserDialogs.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\BTProgressHUD.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\BTProgressHUD.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\CG.Pluralization.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\HtmlAgilityPack.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\HtmlAgilityPack.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.Platform.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.Platform.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.Platform.iOS.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.Platform.iOS.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.Plugin.Color.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.Plugin.Color.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.Plugin.Visibility.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.Plugin.Visibility.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.Plugin.WebBrowser.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\MvvmCross.Plugin.WebBrowser.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\System.Data.SqlClient.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Connectivity.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Connectivity.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Plugin.Settings.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\PolitiQualityAlpha.dll
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\bin\iPhone\Debug\PolitiQualityAlpha.pdb
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.csprojAssemblyReference.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.exe.config
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.csproj.CopyComplete
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.exe
+C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.iOS\obj\iPhone\Debug\PolitiQualityAlpha.iOS.pdb

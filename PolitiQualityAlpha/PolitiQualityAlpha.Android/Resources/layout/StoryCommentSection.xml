@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/layoutborder">
+
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="125.5dp"
+            android:layout_marginLeft="20dp" 
+            android:layout_height="wrap_content"
+            local:MvxBind="Text Username"/>
+
+        <TextView
+            android:id="@+id/separatorDot"
+            android:layout_width="50.0dp"
+            android:layout_height="20dp"
+            android:layout_toRightOf="@+id/username"
+            android:text="."
+            android:gravity="center"
+            
+            android:textSize="15dp"
+           
+            />
+
+        <TextView
+            android:id="@+id/dateText"
+            android:layout_toRightOf="@+id/separatorDot"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            local:MvxBind="Text DateOfComment"
+            android:layout_alignParentRight="false"
+             />
+
+        
+      
+
+
+        <TextView
+            android:id="@+id/comment"
+            android:layout_below="@+id/username"
+            android:layout_width="250dp"
+            android:layout_marginLeft="10dp"
+            android:text="    asff asfafa"
+            
+             android:gravity="fill"
+             android:autoSizeMinTextSize="12sp"
+             android:autoSizeMaxTextSize="100sp"
+             android:autoSizeStepGranularity="2sp"
+            android:background="@drawable/layoutborder"
+            android:layout_height="50dp"
+            local:MvxBind="Text GeneratedComment"
+            android:layout_alignParentRight="false"
+          
+            android:paddingTop="5dp" 
+            />
+
+
+        <ImageButton
+                android:id="@+id/upVoteComment"
+                
+                 android:layout_width="50dp"
+                android:layout_height="50dp"
+                  android:scaleType="fitCenter"
+              
+                android:layout_toLeftOf="@+id/downVoteComment"
+                android:src="@drawable/thumbsup"
+                local:MvxBind="Click UpVoteComment; BackgroundColor UpVoteColourBackground(UpVoteCommentBackgroundColourToggle)"   />
+
+            <ImageButton
+                android:id="@+id/downVoteComment"
+                   android:layout_width="50dp"
+                android:layout_height="50dp"
+            android:scaleType="fitCenter"
+             
+                android:layout_alignParentRight="true"
+                local:MvxBind="Click DownVoteComment;  BackgroundColor DownVoteColourBackground(DownVoteCommentBackgroundColourToggle)"
+                android:src="@drawable/thumbsdown"
+            
+        />
+
+
+
+         <TextView
+                android:id="@+id/publisherUpVotes"
+                android:layout_below="@+id/upVoteComment"
+                android:layout_width="50dp"
+                android:layout_height="30dp"
+                  android:layout_toStartOf="@+id/downVoteComment"
+           
+                android:gravity="center"
+                android:background="@android:color/holo_green_dark"
+                local:MvxBind="Text CommentUpVotes"
+              />
+            <TextView
+                android:id="@+id/publisherDownVotes"
+                android:layout_below="@+id/downVoteComment"
+                android:layout_toRightOf="@+id/publisherUpVotes" 
+           
+                android:layout_width="50dp"
+                 android:gravity="center"
+                  local:MvxBind="Text CommentDownVotes"
+                android:layout_height="30dp"
+                android:background="@android:color/holo_red_dark"
+               />
+
+       
+
+
+
+
+    </RelativeLayout>
+
+</LinearLayout>

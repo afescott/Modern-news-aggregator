@@ -1,0 +1,8 @@
+<RelativeLayout android:padding="20dp" android:orientation="vertical" android:background="#FFFF" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:local="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><include android:id="@+id/toolbar" layout="@layout/toolbar" /><!--    <Toolbar
+            android:background="?android:attr/colorAccent"
+        android:minHeight="?android:attr/actionBarSize"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+        >
+    
+    </Toolbar>--><LinearLayout android:orientation="vertical" android:padding="50dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/main_content"><EditText android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="textPersonName" android:id="@+id/edit" local:MvxBind="Text Username"></EditText><EditText android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/edit12" local:MvxBind="Text Password"></EditText><Button android:layout_width="match_parent" android:layout_height="wrap_content" local:MvxBind="Click BindMe" /><Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Create account" local:MvxBind="Click CreateAccount" /></LinearLayout></RelativeLayout>

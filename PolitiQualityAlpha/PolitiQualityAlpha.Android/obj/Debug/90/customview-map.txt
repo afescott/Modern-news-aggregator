@@ -1,0 +1,110 @@
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\newslist.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
+androidhud.ProgressWheel;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\layout\loadingprogress.xml
+attr;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\values\attrs.xml
+attr;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\2\jl\res\values\mvxbindingattributes.xml
+attr;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\3\jl\res\values\mvxrecyclerviewbindingattributes.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+Button;obj\Debug\90\res\layout\articleinforow.xml
+Button;obj\Debug\90\res\layout\createloginview.xml
+Button;obj\Debug\90\res\layout\filterview.xml
+Button;obj\Debug\90\res\layout\homepageview123.xml
+Button;obj\Debug\90\res\layout\newsdisplayview.xml
+cache-path;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\50\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+CheckBox;obj\Debug\90\res\layout\filterview.xml
+color;obj\Debug\90\res\values\colors.xml
+corners;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbg.xml
+corners;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbgdark.xml
+corners;obj\Debug\90\res\drawable\layoutborder.xml
+declare-styleable;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\values\attrs.xml
+declare-styleable;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\2\jl\res\values\mvxbindingattributes.xml
+declare-styleable;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\3\jl\res\values\mvxrecyclerviewbindingattributes.xml
+EditText;obj\Debug\90\res\layout\createloginview.xml
+EditText;obj\Debug\90\res\layout\homepageview123.xml
+EditText;obj\Debug\90\res\layout\newsstoryview.xml
+EditText;obj\Debug\90\res\layout-normal-land\homepageview123.xml
+external-cache-path;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\50\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\50\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;obj\Debug\90\res\layout\filterview.xml
+gradient;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbg.xml
+gradient;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbgdark.xml
+gradient;obj\Debug\90\res\drawable\layoutborder.xml
+ImageButton;obj\Debug\90\res\layout\articleinforow.xml
+ImageButton;obj\Debug\90\res\layout\newsstoryview.xml
+ImageButton;obj\Debug\90\res\layout\storycommentsection.xml
+ImageView;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\layout\loadingimage.xml
+ImageView;obj\Debug\90\res\layout\articleinforow.xml
+ImageView;obj\Debug\90\res\layout\filterview.xml
+ImageView;obj\Debug\90\res\layout\item_contact.xml
+ImageView;obj\Debug\90\res\layout\newsstoryview.xml
+ImageView;obj\Debug\90\res\layout\toolbar.xml
+include;obj\Debug\90\res\layout\filterview.xml
+include;obj\Debug\90\res\layout\homepageview123.xml
+include;obj\Debug\90\res\layout\newsdisplayview.xml
+include;obj\Debug\90\res\layout\newsstoryview.xml
+item;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\2\jl\res\values\ids.xml
+item;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\2\jl\res\values\mvxbindingattributes.xml
+item;obj\Debug\90\res\values\styles.xml
+LinearLayout;obj\Debug\90\res\layout\articleinforow.xml
+LinearLayout;obj\Debug\90\res\layout\createloginview.xml
+LinearLayout;obj\Debug\90\res\layout\dropdowncomments.xml
+LinearLayout;obj\Debug\90\res\layout\filterview.xml
+LinearLayout;obj\Debug\90\res\layout\homepageview123.xml
+LinearLayout;obj\Debug\90\res\layout\item_contact.xml
+LinearLayout;obj\Debug\90\res\layout\newsdisplayview.xml
+LinearLayout;obj\Debug\90\res\layout\newsstoryview.xml
+LinearLayout;obj\Debug\90\res\layout\radiogrouppublishers.xml
+LinearLayout;obj\Debug\90\res\layout\storycommentsection.xml
+LinearLayout;obj\Debug\90\res\layout\toolbar.xml
+LinearLayout;obj\Debug\90\res\layout-normal-land\homepageview123.xml
+mvvmcross.droid.support.v7.recyclerview.MvxRecyclerView;obj\Debug\90\res\layout\newsstoryview.xml
+MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerView;obj\Debug\90\res\layout\newsdisplayview.xml
+MvvmCross.Platforms.Android.Binding.Views.MvxListView;obj\Debug\90\res\layout\newsstoryview.xml
+paths;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\50\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+ProgressBar;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\layout\loading.xml
+RelativeLayout;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\layout\loading.xml
+RelativeLayout;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\layout\loadingimage.xml
+RelativeLayout;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\layout\loadingprogress.xml
+RelativeLayout;obj\Debug\90\res\layout\articleinforow.xml
+RelativeLayout;obj\Debug\90\res\layout\dropdowncomments.xml
+RelativeLayout;obj\Debug\90\res\layout\filterview.xml
+RelativeLayout;obj\Debug\90\res\layout\homepageview123.xml
+RelativeLayout;obj\Debug\90\res\layout\item_contact.xml
+RelativeLayout;obj\Debug\90\res\layout\newsstoryview.xml
+RelativeLayout;obj\Debug\90\res\layout\radiogrouppublishers.xml
+RelativeLayout;obj\Debug\90\res\layout\storycommentsection.xml
+RelativeLayout;obj\Debug\90\res\layout\toolbar.xml
+resources;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\values\attrs.xml
+resources;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\values\strings.xml
+resources;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\2\jl\res\values\ids.xml
+resources;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\2\jl\res\values\mvxbindingattributes.xml
+resources;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\3\jl\res\values\mvxrecyclerviewbindingattributes.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\styles.xml
+shape;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbg.xml
+shape;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\drawable\roundedbgdark.xml
+shape;obj\Debug\90\res\drawable\background.xml
+shape;obj\Debug\90\res\drawable\layoutborder.xml
+solid;obj\Debug\90\res\drawable\background.xml
+string;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\values\strings.xml
+stroke;obj\Debug\90\res\drawable\background.xml
+stroke;obj\Debug\90\res\drawable\layoutborder.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\layout\loading.xml
+TextView;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\layout\loadingimage.xml
+TextView;C:\Users\Swifty\source\repos\PolitiQualityAlpha - Copy (2)\PolitiQualityAlpha\PolitiQualityAlpha.Android\obj\Debug\90\lp\1\jl\res\layout\loadingprogress.xml
+TextView;obj\Debug\90\res\layout\articleinforow.xml
+TextView;obj\Debug\90\res\layout\createloginview.xml
+TextView;obj\Debug\90\res\layout\dropdowncomments.xml
+TextView;obj\Debug\90\res\layout\filterview.xml
+TextView;obj\Debug\90\res\layout\item_contact.xml
+TextView;obj\Debug\90\res\layout\newsstoryview.xml
+TextView;obj\Debug\90\res\layout\storycommentsection.xml
+TextView;obj\Debug\90\res\layout\toolbar.xml
+Toolbar;obj\Debug\90\res\layout\createloginview.xml

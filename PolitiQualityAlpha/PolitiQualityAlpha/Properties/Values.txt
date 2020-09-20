@@ -1,0 +1,31 @@
+safsafsafasf #
+dgdsgdgg
+
+
+The basic idea is that each text could gather its most related texts to form
+an initial group, then we decide which groups have more strength over other
+groups, make the stronger groups as final clusters, and use them to bring any
+possible texts to their clusters.
+
+1 )    First, we use each text as a leading text (Tl) to
+form a cluster. To do this, we put all the texts which have a score greater than
+the high-threshold with Tl into one group and add each score to the group’s
+total score.
+
+How are we comparing articles 
+
+
+By doing this for all texts, we will have N possible different groups
+with different entries and group scores, where N is the number of the total texts
+in the set. Next, we select the final clusters from those N groups. We arrange
+all the groups by their scores in a non-increasing order. We choose the group
+286 Y. Chali and S. Noureddine
+with the highest score and check if any text in this group has been clustered
+to the existing final clusters or not. If not more than 2 texts are overlapping
+with the final clusters, then we take this group as a final cluster, and remove the
+overlapping texts from other final clusters. We process the group with the next
+highest score in the same way until the groups’ entries are less than 4. For those
+groups, we would first try to insert their texts into the existing final clusters if
+they can fit in one of them. Otherwise, we will let them go to the leftover cluster
+which holds all the texts that do not belong to any final clusters. The following
+is the pseudocode for the grouping algorithm
