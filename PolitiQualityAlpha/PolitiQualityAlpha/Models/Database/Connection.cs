@@ -12,7 +12,7 @@ namespace PolitiQualityAlpha.Logic.Database
     {
               
         protected const string connectionString =
-     @"Data Source=politiquality.database.windows.net;Initial Catalog=PolitiQuality;User ID=s4908683;Password=Monday22";
+     @"Data Source=politiquality.database.windows.net;Initial Catalog=PolitiQuality;User ID=s4908683;Password=#afafaf";
 
         protected SqlCommand Con = new SqlCommand();
 
